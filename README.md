@@ -125,8 +125,8 @@ gradlew.bat assembleDebug
 ## Demo Accounts
 
 ### Regular User
-- Email: `semihalkanli@gmail.com`
-- Password: `beyonder`
+- Email: `demo@gmail.com`
+- Password: `demo`
 
 Features: Full access to note-taking, map, statistics, and profile features.
 

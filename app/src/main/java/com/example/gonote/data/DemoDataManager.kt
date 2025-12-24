@@ -22,12 +22,12 @@ class DemoDataManager(
 ) {
     companion object {
         private const val TAG = "DemoDataManager"
-        private const val DEMO_USER_EMAIL = "semihalkanli@gmail.com"
-        private const val DEMO_USER_ID = "demo_user_semih_001"
-        
+        private const val DEMO_USER_EMAIL = "demo@gmail.com"
+        private const val DEMO_USER_ID = "demo_user_001"
+
         // Demo users for admin panel presentation
         private val DEMO_USERS = listOf(
-            Pair("semihalkanli@gmail.com", "Semih Alkanli"),  // Primary demo user
+            Pair("demo@gmail.com", "Demo User"),  // Primary demo user
             Pair("john.doe@example.com", "John Doe"),
             Pair("jane.smith@example.com", "Jane Smith"),
             Pair("alex.johnson@example.com", "Alex Johnson"),

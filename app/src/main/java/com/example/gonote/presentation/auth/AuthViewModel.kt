@@ -30,8 +30,8 @@ class AuthViewModel(
 ) : ViewModel() {
 
     companion object {
-        private const val DEMO_USER_EMAIL = "semihalkanli@gmail.com"
-        private const val DEMO_USER_ID = "demo_user_semih_001"
+        private const val DEMO_USER_EMAIL = "demo@gmail.com"
+        private const val DEMO_USER_ID = "demo_user_001"
     }
 
     private val _authState = MutableStateFlow(AuthState())
